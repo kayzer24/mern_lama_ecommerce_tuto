@@ -18,5 +18,8 @@
     "mongoose": "^6.0.5",
     "nodemon": "^2.0.12",
     "stripe": "^8.174.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
   }
 }
